@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Task 10 longest ascending subsequence.cpp
+c:\users\alex\desktop\task 10 longest ascending subsequence\task 10 longest ascending subsequence\task 10 longest ascending subsequence.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\task 10 longest ascending subsequence\task 10 longest ascending subsequence\task 10 longest ascending subsequence.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\desktop\task 10 longest ascending subsequence\task 10 longest ascending subsequence\task 10 longest ascending subsequence.cpp(36): warning C4018: '>': signed/unsigned mismatch
+c:\users\alex\desktop\task 10 longest ascending subsequence\task 10 longest ascending subsequence\task 10 longest ascending subsequence.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Task 10 longest ascending subsequence.vcxproj -> C:\Users\Alex\Desktop\Task 10 longest ascending subsequence\Debug\Task 10 longest ascending subsequence.exe

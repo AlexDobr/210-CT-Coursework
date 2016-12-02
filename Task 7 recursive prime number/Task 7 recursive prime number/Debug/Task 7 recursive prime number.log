@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task 7 recursive prime number.cpp
+c:\users\alex\desktop\task 7 recursive prime number\task 7 recursive prime number\task 7 recursive prime number.cpp(22): warning C4715: 'isPrime': not all control paths return a value
+  Task 7 recursive prime number.vcxproj -> C:\Users\Alex\Desktop\Task 7 recursive prime number\Debug\Task 7 recursive prime number.exe
